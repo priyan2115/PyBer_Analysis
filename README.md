@@ -10,7 +10,8 @@ so,what I learn through this project is how the small detailing works and gave u
 
 I found that if the DataFrame is not Mention correctly that cause a big problem for the whole code because that is the keyfeature here,as well as importing right function and library is one of the most important thing.
 
-As we can see in the Deleverable 5 question 2 we perform with student_id here but if we can perform with reading_score that gave us the same result too.
+**1st important Analysis as per my thought**
+As we can perform conditional and display the students name based on the grade whoes grade is greater than 70 or less than 60 or whatever it is we can also perform this conditional with display the data Row vise so if we can combine that both conditional togather with iloc than we can able to display conditional data on perticular row.
 
 **Image:**
 ![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
