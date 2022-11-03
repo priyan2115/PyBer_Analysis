@@ -10,4 +10,7 @@ so,what I learn through this project is how the small detailing works and gave u
 
 I found that if the DataFrame is not Mention correctly that cause a big problem for the whole code because that is the keyfeature here,as well as importing right function and library is one of the most important thing.
 
-As we can see in the Deleverable 5 question 2 we perform with student_id here but if we can perform with reading_score that gave us the same result too. note:- I submited the screenshot link in Readme.file on github.
+As we can see in the Deleverable 5 question 2 we perform with student_id here but if we can perform with reading_score that gave us the same result too.
+
+**Image:**
+![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
