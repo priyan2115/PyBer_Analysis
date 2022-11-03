@@ -14,4 +14,4 @@ I found that if the DataFrame is not Mention correctly that cause a big problem 
 As we can perform conditional and display the students name based on the grade whoes grade is greater than 70 or less than 60 or whatever it is we can also perform this conditional with display the data Row vise so if we can combine that both conditional togather with iloc than we can able to display conditional data on perticular row.
 
 **Image:**
-![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
+![important_analysis1.png](resources/important_analysis1.png)
