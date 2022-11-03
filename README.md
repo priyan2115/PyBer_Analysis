@@ -16,4 +16,4 @@ As we can perform conditional and display the students name based on the grade w
 **Image:**
 ![important_analysis1.png](resources/important_analysis1.png)
 
-In this image we can see the student information who got less than 60% grade in the first 10 rows.
+**In this image we can see the student information who got less than 60% grade in the first 10 rows.**
