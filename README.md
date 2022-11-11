@@ -33,7 +33,7 @@
         
         Second we can get the total drivers by city type.
         we can used same method which we can use for retriving total ride we can perform the sum() on **driver_count** colunm instead of **ride_id** here.
-        ![total_drivers](link)
+        ![total_drivers](analysis/total_drivers.png)
         
         Here we retriving the total fare of each city type.
         using same quary as we used in the first both calculations.we just swipe the sum() on **fare**
