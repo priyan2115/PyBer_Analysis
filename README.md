@@ -41,8 +41,8 @@
         
         Now we calculate the average **ride_fare** and average **driver_fare** for the average we just divided the **total_fare** from **total_ride** and 
         **total_driver** simultaniously.
-        ![avg_ride_fare](link)
-        ![avg_driver_fare](link)
+        ![avg_ride_fare](analysis/avg_ride_fare.png)
+        ![avg_driver_fare](analysis/avg_driver_fare.png)
         
         After getting all the data we create the **DataFrame** which contains all the data we retrive above.
         ![summary_df](link)
