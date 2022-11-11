@@ -45,7 +45,7 @@
         ![avg_driver_fare](analysis/avg_driver_fare.png)
         
         After getting all the data we create the **DataFrame** which contains all the data we retrive above.
-        ![summary_df](link)
+        ![summary_df]analysis/summary_df.png)
         
         As we can see in the DataFrame the avg_driver_fare is very higher in the **Rural city** and lower in **Urban city** so if they increased the ride in Urban area 
         then avg_driver_fare must be increased in this area.
