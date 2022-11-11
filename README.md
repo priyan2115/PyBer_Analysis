@@ -29,7 +29,7 @@
   1. **DataFrame Description:**
         First we can get the total ride by city type.
         We used **groupby** for getting total fare of each city which is basically devided into the 3 types **Urabn,Suburban,Rural** and use **sum()** for getting             total no of fare.
-        ![total_ride](link)
+        ![total_ride](analysis/total_ride.png)
         
         Second we can get the total drivers by city type.
         we can used same method which we can use for retriving total ride we can perform the sum() on **driver_count** colunm instead of **ride_id** here.
