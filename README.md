@@ -8,7 +8,7 @@
   ##**Results: **
   ###**Use scipy.stats:**
         In the previous challange we use pandas,matplotlib,and Numpy in this challange we also use scipy.stats along with all pandas library. 
-  ###**Different new Functions we used through this module:
+  ###**Different new Functions we used through this module:**
         ###**Index.name:**
             with the use of this function we give the name of index line in table and also **Delete** the index name Example:df.index.name = None
         ###**pd.to_datetime():**
