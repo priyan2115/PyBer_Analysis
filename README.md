@@ -24,7 +24,7 @@
   5.  **info():**                                                                                                                                                                With the use of this function we can get the information about the table like column information,count datatypes etc.
   6.  **Resample:**                                                                                                                                                              This function is use for get the data as per time series.In this challange we retriving data by weekly with the use of this function.
   
-   ###### **Description of DataFrame and Line Chart:**
+   ###### **Description of DataFrame and Line Chart with summary:**
    
   1. **DataFrame Description:**
         First we can get the total ride by city type.
