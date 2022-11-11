@@ -57,7 +57,7 @@
         3. The **Urban city type** fare is always between the range of **$1500 to 2500**.
         4. In all the city type we can see that the fare is always flactuated through out start to end.
         5. The fare is fluctuated in all the city type but there is no **Drastic Change** we noticed through January to April.
-       ![TTL_Fare_Graph](link)       
+       ![PyBer_fare_summary.png](analysis/PyBer_fare_summary.png)       
         
         
 
