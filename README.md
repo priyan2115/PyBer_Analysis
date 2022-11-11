@@ -47,6 +47,9 @@
         After getting all the data we create the **DataFrame** which contains all the data we retrive above.
         ![summary_df](link)
         
+        As we can see in the DataFrame the avg_driver_fare is very higher in the **Rural city** and lower in **Urban city** so if they increased the ride in Urban area 
+        then avg_driver_fare must be increased in this area.
+        
    2. **Line Chart:**
         We creating the Line chart from the total fare of city type in the year 2019.
         1. As we can see in this line chart that **Rural city type** fare is always below the **$500**.
