@@ -37,7 +37,7 @@
         
         Here we retriving the total fare of each city type.
         using same quary as we used in the first both calculations.we just swipe the sum() on **fare**
-        ![total_fare](link)
+        ![total_fare](analysis/total_fare.png)
         
         Now we calculate the average **ride_fare** and average **driver_fare** for the average we just divided the **total_fare** from **total_ride** and 
         **total_driver** simultaniously.
